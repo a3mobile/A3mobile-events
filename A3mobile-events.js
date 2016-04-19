@@ -4,7 +4,7 @@
 /*		A3mobile
 /*
 /*		version 1.0.0
-/*		https://a3mobile.co/code/A3mobile-events-1.0.0.js
+/*		https://code.a3mobile.co/A3mobile-events-1.0.0.js
 /*
 /*		Copyright 2016
 /*		https://a3mobile.co
